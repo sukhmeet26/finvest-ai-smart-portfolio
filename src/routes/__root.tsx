@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "FinVest AI - Smart Portfolio Intelligence" },
+      { name: "description", content: "Production-grade Agentic AI financial portfolio intelligence platform with deterministic risk engine and multi-agent orchestration." },
+      { name: "author", content: "FinVest AI" },
+      { property: "og:title", content: "FinVest AI - Smart Portfolio Intelligence" },
+      { property: "og:description", content: "Autonomous financial portfolio research, risk analysis, and agentic intelligence platform." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:site", content: "@FinVestAI" },
     ],
     links: [
       {

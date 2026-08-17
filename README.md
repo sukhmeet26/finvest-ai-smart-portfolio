@@ -20,18 +20,6 @@ Add a Portfolio Monitoring Agent that detects portfolio drift, unusual volatilit
 
 Make the project production-quality with authentication, modular architecture, Docker, environment configuration, unit/integration tests, API documentation, structured logging, LangGraph agent tracing, error handling, sample financial data/mock APIs for development, AWS deployment configuration, comprehensive README, architecture diagram, seed data, and a polished responsive UI; clearly label the product as a research/simulation and decision-support tool rather than personalized financial advice.
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/0eadf4e5-0149-4401-ad5b-ffeef0b55b96).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
